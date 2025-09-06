@@ -1,20 +1,16 @@
-MindleApp
+# midleapp
 
-Aplicativo desenvolvido em Flutter com integração ao Firebase, voltado para o controle emocional e bem-estar mental.
+A new Flutter project.
 
-Objetivo Principal:
-Ajudar os usuários a monitorar e compreender melhor suas emoções, promovendo o autocuidado e incentivando hábitos saudáveis para lidar com o estresse, ansiedade e variações emocionais do dia a dia.
+## Getting Started
 
-🔧 Principais Funcionalidades:
-- Termômetro de Emoções
-Permite ao usuário registrar como está se sentindo ao longo do dia, usando uma escala visual e descritiva. Isso ajuda a identificar padrões emocionais e gatilhos.
-- Sugestões de Atividades
-Com base no estado emocional registrado, o app oferece sugestões personalizadas de atividades, como exercícios de respiração, meditação guiada e leitura.
-- Gráficos e Relatórios
-Visualizações gráficas que mostram a evolução emocional do usuário ao longo do tempo.
-- Notificações Inteligentes
-Lembretes personalizados para que o usuário registre suas emoções diariamente, além de sugestões de pausas ou atividades em horários estratégicos.
+This project is a starting point for a Flutter application.
 
-🛠️ Tecnologias Utilizadas:
-Flutter – Framework para desenvolvimento mobile
-Firebase – Backend completo para autenticação, banco de dados em tempo real, notificações push e armazenamento seguro de dados.
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
